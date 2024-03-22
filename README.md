@@ -18,3 +18,32 @@ Dans ce cours, nous allons créer notre propre version de ce jeu emblématique a
 5. Le Menu de Fin : Tout héros mérite son épilogue. Vous créerez un écran de fin pour célébrer la victoire... ou encourager à tenter sa chance à nouveau !
 
 Ce cours est conçu pour vous plonger dans le monde de la création de jeu vidéo, en alliant plaisir et apprentissage. Let's jump right in! 🕹️📚
+
+## liste des assets
+
+Voici ce dont vous aurez besoin durant ce cours: 
+
+> Player 🏃‍♂️ : L'avatar que les joueurs vont contrôler.
+> 
+> Balle du Joueur 🔵 : L'objet que le player lance/shoot.
+> 
+> Plateforme 🟩 : Les surfaces sur lesquelles le player va sauter pour progresser.
+> 
+> Ennemi à Pics 🦔 : Un type d'ennemi que le player doit éviter ou éliminer.
+> 
+> Ennemi Tireur 🎯 : Un ennemi qui peut tirer des projectiles vers le player.
+> 
+> Deadzone ⚫ : Une zone qui cause la fin du jeu ou la perte d'une vie quand le player y tombe.
+> 
+> Balle de l'Ennemi 🔴 : Le projectile tiré par l'ennemi tireur.
+> 
+> Power-up ⭐ : Un objet que le player peut récupérer pour obtenir un avantage temporaire (exemple : super saut).
+> 
+> Background 🌌 : L'arrière-plan du jeu pour ajouter à l'ambiance et l'immersion.
+> 
+
+Félicitations 🎉, tu as tout ce qu'il te faut pour commencer l'aventure de création de ton propre jeu style Doodle Jump avec GDevelop 5 ! 🚀 Avec cette liste d'assets et les chapitres précédents, tu es prêt à donner vie à ton univers, peuplé de défis, d'alliés précieux et d'ennemis redoutables. 🧩
+
+Maintenant, plonge dans le monde fascinant du développement de jeux et laisse libre cours à ta créativité. Suis les étapes du tuto, expérimente, et surtout, amuse-toi bien en créant un jeu qui te ressemble. 🌟 La programmation est aussi un jeu, alors joue avec les codes, apprends de chaque essai, et souviens-toi : chaque grande création commence par une simple idée. 💡
+
+À toi de jouer ! 👾🕹️
