@@ -4,6 +4,8 @@ Doodle Jump, c'est ce jeu incroyablement addictif où un drôle de petit personn
 
 Depuis sa sortie, Doodle Jump a conquis des millions de joueurs autour du monde. Son principe simple mais profondément amusant en fait un classique indémodable. 🎮
 
+![DoodleJump](https://github.com/g404-code-gaming/Doodle-Jump-Like/assets/80946089/17edf10b-e511-45ab-a8ab-00b188819b53)
+
 ## 🏫 Ce que vous allez apprendre
 Dans ce cours, nous allons créer notre propre version de ce jeu emblématique avec GDevelop 5. Voici les aventures qui vous attendent :
 
@@ -18,6 +20,7 @@ Dans ce cours, nous allons créer notre propre version de ce jeu emblématique a
 5. Le Menu de Fin : Tout héros mérite son épilogue. Vous créerez un écran de fin pour célébrer la victoire... ou encourager à tenter sa chance à nouveau !
 
 Ce cours est conçu pour vous plonger dans le monde de la création de jeu vidéo, en alliant plaisir et apprentissage. Let's jump right in! 🕹️📚
+
 
 ## liste des assets
 
@@ -44,6 +47,10 @@ Voici ce dont vous aurez besoin durant ce cours:
 
 Félicitations 🎉, tu as tout ce qu'il te faut pour commencer l'aventure de création de ton propre jeu style Doodle Jump avec GDevelop 5 ! 🚀 Avec cette liste d'assets et les chapitres précédents, tu es prêt à donner vie à ton univers, peuplé de défis, d'alliés précieux et d'ennemis redoutables. 🧩
 
+[Lien pour tester le jeu](https://gd.games/instant-builds/e043dbd7-1460-423a-bdfd-7e31f8ac14d2)
+
 Maintenant, plonge dans le monde fascinant du développement de jeux et laisse libre cours à ta créativité. Suis les étapes du tuto, expérimente, et surtout, amuse-toi bien en créant un jeu qui te ressemble. 🌟 La programmation est aussi un jeu, alors joue avec les codes, apprends de chaque essai, et souviens-toi : chaque grande création commence par une simple idée. 💡
 
 À toi de jouer ! 👾🕹️
+
+[Chapitre 1: Le Player](https://github.com/g404-code-gaming/Doodle-Jump-Like/blob/main/Création-Du-Jeu/1.Le%20Player.md)
