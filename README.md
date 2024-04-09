@@ -47,7 +47,7 @@ Voici ce dont vous aurez besoin durant ce cours:
 
 Félicitations 🎉, tu as tout ce qu'il te faut pour commencer l'aventure de création de ton propre jeu style Doodle Jump avec GDevelop 5 ! 🚀 Avec cette liste d'assets et les chapitres précédents, tu es prêt à donner vie à ton univers, peuplé de défis, d'alliés précieux et d'ennemis redoutables. 🧩
 
-[Lien pour tester le jeu](https://gd.games/instant-builds/18a40f91-a2c9-44f8-b5e6-c57f66f11e93)
+[Lien pour tester le jeu](https://gd.games/instant-builds/b72636eb-5bf8-4265-8469-b1e9f6d3c2ed)
 
 Maintenant, plonge dans le monde fascinant du développement de jeux et laisse libre cours à ta créativité. Suis les étapes du tuto, expérimente, et surtout, amuse-toi bien en créant un jeu qui te ressemble. 🌟 La programmation est aussi un jeu, alors joue avec les codes, apprends de chaque essai, et souviens-toi : chaque grande création commence par une simple idée. 💡
 
