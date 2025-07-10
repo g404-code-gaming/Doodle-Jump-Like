@@ -24,7 +24,7 @@ Ce cours est conçu pour vous plonger dans le monde de la création de jeu vidé
 
 ## liste des assets
 
-Voici ce dont vous aurez besoin durant ce cours: 
+Voici la liste des [objets](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md) vous aurez besoin durant ce cours: 
 
 > Player 🏃‍♂️ : L'avatar que les joueurs vont contrôler.
 > 
